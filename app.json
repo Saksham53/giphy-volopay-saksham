@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Volopay",
+    "slug": "Volopay",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Volopay"
+}
