@@ -5,7 +5,14 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.saksham99.Volopay"
+    }
   },
-  "name": "Volopay"
+  "name": "Volopay",
+  "android": {
+    "package": "com.volopay.Volopay",
+    "versionCode": 1
+  }
 }
